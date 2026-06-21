@@ -1,6 +1,6 @@
 # Privacy Policy — Chore Quest
 
-**Last updated: June 2025**
+**Last updated: June 2026**
 
 ## Overview
 Chore Quest is a children's chore-tracking game for families. We take your privacy seriously.
